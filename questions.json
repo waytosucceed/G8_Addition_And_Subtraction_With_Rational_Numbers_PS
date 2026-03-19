@@ -1,0 +1,322 @@
+{
+  "heading": "G8_Addition And Subtraction With Rational Numbers",
+  "topics": [
+    {
+      "heading": "Addition And Subtraction With Rational Numbers",
+      "questions": [
+
+{
+"questionNo":1,
+"question":["Find the lowest common denominator of the following two rational numbers: ",{"fraction":{"numerator":4,"denominator":9}}," and ",{"fraction":{"numerator":7,"denominator":15}}],
+"options":[
+{"text":"30"},
+{"text":"36"},
+{"text":"45"},
+{"text":"90"}
+],
+"answer":2
+},
+{
+"questionNo":2,
+"question":["Find the lowest common denominator of the following two rational numbers: ",{"fraction":{"numerator":2,"denominator":14}}," and ",{"fraction":{"numerator":9,"denominator":21}}],
+"options":[
+{"text":"21"},
+{"text":"28"},
+{"text":"42"},
+{"text":"84"}
+],
+"answer":2
+},
+{
+"questionNo":3,
+"question":["Find the lowest common denominator of the following three rational numbers: ",{"fraction":{"numerator":3,"denominator":8}},", ",{"fraction":{"numerator":5,"denominator":12}},", and ",{"fraction":{"numerator":7,"denominator":16}}],
+"options":[
+{"text":"24"},
+{"text":"48"},
+{"text":"32"},
+{"text":"96"}
+],
+"answer":1
+},
+{
+"questionNo":4,
+"question":["Find the LCD of the following rational numbers: <br>",{"fraction":{"numerator":2,"denominator":5}},", ",{"fraction":{"numerator":3,"denominator":8}},", ",{"fraction":{"numerator":7,"denominator":10}},", and ",{"fraction":{"numerator":9,"denominator":20}}],
+"options":[
+{"text":"20"},
+{"text":"30"},
+{"text":"40"},
+{"text":"60"}
+],
+"answer":2
+}
+,
+{
+"questionNo":5,
+"question":[
+"Complete the following addition of the two rational numbers.<br>",
+{"fraction":{"numerator":5,"denominator":6}},
+" + ",
+{"fraction":{"numerator":1,"denominator":4}},
+"<br> = ",
+{"fraction":{"numerator":"______","denominator":"______"}},
+" + ",
+{"fraction":{"numerator":"______","denominator":"______"}},
+"<br> = ",
+{"fraction":{"numerator":"______","denominator":"______"}}
+],
+"input":["","","","","",""],
+"answer":["10","12","3","12","13","12"]
+},
+{
+"questionNo":6,
+"question":[
+"Complete the following addition.<br>",
+
+{"fraction":{"whole":3,"numerator":1,"denominator":2}},
+" + ",
+{"fraction":{"numerator":2,"denominator":3}},
+"<br> = ",
+{"fraction":{"numerator":"______","denominator":"______"}},
+" + ",
+{"fraction":{"numerator":"______","denominator":"6"}},
+"<br> = ",
+{"fraction":{"numerator":"______","denominator":"______"}}
+],
+"input":["","","","",""],
+"answer":["21","6","4","25","6"]
+},
+{
+"questionNo":7,
+"question":[
+"Complete the following subtraction of the two rational numbers.<br>",
+{"fraction":{"numerator":9,"denominator":10}},
+" − ",
+{"fraction":{"numerator":1,"denominator":6}},
+"<br> = ",
+{"fraction":{"numerator":"______","denominator":"______"}},
+" − ",
+{"fraction":{"numerator":"______","denominator":"______"}},
+"<br> = ",
+{"fraction":{"numerator":"______","denominator":"______"}}
+],
+"input":["","","","","",""],
+"answer":["27","30","5","30","22","30"]
+},
+{
+"questionNo":8,
+"question":[
+"Complete the following subtraction.<br>",
+
+{"fraction":{"whole":4,"numerator":1,"denominator":3}},
+" − ",
+{"fraction":{"numerator":3,"denominator":4}},
+"<br> = ",
+{"fraction":{"numerator":"______","denominator":"______"}},
+" − ",
+{"fraction":{"numerator":"______","denominator":"______"}},
+"<br> = ",
+{"fraction":{"numerator":"______","denominator":"______"}}
+],
+"input":["","","","","",""],
+"answer":["52","12","9","12","43","12"]
+},
+{
+"questionNo":9,
+"question":["Find the sum of ",{"fraction":{"numerator":7,"denominator":8}}," and ",{"fraction":{"numerator":-3,"denominator":10}},"."],
+"options":[
+{"fraction":{"whole":"","numerator":"-23","denominator":"40"}},
+{"fraction":{"whole":"","numerator":"11","denominator":"40"}},
+{"fraction":{"whole":"","numerator":"23","denominator":"40"}},
+{"fraction":{"whole":"","numerator":"17","denominator":"40"}}
+],
+"answer":2
+},
+{
+"questionNo":10,
+"question":["What is ",{"fraction":{"numerator":-9,"denominator":5}}," + ",{"fraction":{"numerator":2,"denominator":3}}," ?"],
+"options":[
+{"fraction":{"whole":"","numerator":"17","denominator":"15"}},
+{"fraction":{"whole":"","numerator":"-17","denominator":"15"}},
+{"fraction":{"whole":"","numerator":"19","denominator":"15"}},
+{"fraction":{"whole":"","numerator":"-7","denominator":"15"}}
+],
+"answer":1
+},
+{
+"questionNo":11,
+"question":["Find the total of <br><img width = '25%' src = './assests/images/question/10.png' >"],
+"options":[
+{"fraction":{"whole":"","numerator":"-13","denominator":"14"}},
+{"fraction":{"whole":"","numerator":"-3","denominator":"2"}},
+{"fraction":{"whole":"","numerator":"-9","denominator":"14"}},
+{"fraction":{"whole":"","numerator":"13","denominator":"14"}}
+],
+"answer":0
+},
+{
+"questionNo":12,
+"question":["Add −4 to",{"fraction":{"numerator":7,"denominator":6}},"."],
+"options":[
+{"fraction":{"whole":"","numerator":"-11","denominator":"6"}},
+{"fraction":{"whole":"","numerator":"-19","denominator":"6"}},
+{"fraction":{"whole":"","numerator":"17","denominator":"6"}},
+{"fraction":{"whole":"","numerator":"-17","denominator":"6"}}
+],
+"answer":3
+},
+{
+  "questionNo": 13,
+  "question": ["Which number is the sum of ", {"fraction": {"numerator": -5, "denominator": 3}}, " and −2?"],
+  "options": [
+    {"fraction": {"numerator": "-11", "denominator": "3"}},
+    {"fraction": {"numerator": "-1", "denominator": "3"}},
+    {"fraction": {"numerator": "-7", "denominator": "3"}},
+    {"fraction": {"numerator": "11", "denominator": "3"}}
+  ],
+  "answer": 0
+},
+{
+  "questionNo": 14,
+  "question": ["Find the total of <br><img width = '25%' src = './assests/images/question/11.png' >"],
+  "options": [
+    {"fraction": {"numerator": "73", "denominator": "20"}},
+    {"fraction": {"numerator": "3", "denominator": "20"}},
+    {"fraction": {"numerator": "-73", "denominator": "20"}},
+    {"fraction": {"numerator": "13", "denominator": "20"}}
+  ],
+  "answer": 2
+},
+{
+  "questionNo": 15,
+  "question": ["Subtract ", {"fraction": {"numerator": -2, "denominator": 5}}, " from ", {"fraction": {"numerator": 3, "denominator": 4}}, "."],
+  "options": [
+    {"fraction": {"numerator": "7", "denominator": "20"}},
+    {"fraction": {"numerator": "23", "denominator": "20"}},
+    {"fraction": {"numerator": "1", "denominator": "20"}},
+    {"fraction": {"numerator": "17", "denominator": "20"}}
+  ],
+  "answer": 1
+},
+{
+  "questionNo": 16,
+  "question": ["Find the difference when ", {"fraction": {"numerator": -3, "denominator": 7}}, " is subtracted from ", {"fraction": {"numerator": -5, "denominator": 6}}, "."],
+  "options": [
+    {"fraction": {"numerator": "-17", "denominator": "42"}},
+    {"fraction": {"numerator": "-1", "denominator": "42"}},
+    {"fraction": {"numerator": "-13", "denominator": "42"}},
+    {"fraction": {"numerator": "-29", "denominator": "42"}}
+  ],
+  "answer": 0
+},
+{
+  "questionNo": 17,
+  "question": ["The number line below shows an unknown number, x.<br>Is -x positive or negative?"],
+  "options": [{"text":"positive"},{"text":"negative"}],
+  "image":"./assests/images/question/12.png",
+  "answer": 1
+},
+{
+  "questionNo": 18,
+  "question": ["The number line shows two unknown numbers, a and b.<br>Is a − b positive or negative?"],
+   "options": [{"text":"positive"},{"text":"negative"}],
+  "image":"./assests/images/question/13.png",
+  "answer": 1
+},
+{
+  "questionNo": 19,
+  "question": ["The number line shows two unknown numbers, p and q.<br>Is p - q positive or negative?"],
+   "options": [{"text":"positive"},{"text":"negative"}],
+  "image":"./assests/images/question/14.png",
+  "answer": 0
+},
+{
+  "questionNo": 20,
+  "question": [
+    "Arjun says:<br>Adding ", {"fraction": {"numerator": -7, "denominator": 9}}, " is equivalent to subtracting ", {"fraction": {"numerator": 7, "denominator": 9}}, ".<br>",
+    "Sophia says:<br>Adding ", {"fraction": {"numerator": -7, "denominator": 9}}, " is equivalent to subtracting ", {"fraction": {"numerator": -7, "denominator": 9}}, ".<br>",
+    "Who is correct?"
+  ],
+    "options": [{"text":"Arjun"},{"text":"Sophia"}],
+  "answer": 0
+},
+{
+  "questionNo": 21,
+  "question": [
+    "Emily says:<br>Adding ", {"fraction": {"numerator": 5, "denominator": 12}}, " is equivalent to subtracting ", {"fraction": {"numerator": -5, "denominator": 12}}, ".<br>",
+    "Daniel says:<br>Adding ", {"fraction": {"numerator": 5, "denominator": 12}}, " is equivalent to subtracting ", {"fraction": {"numerator": 5, "denominator": 12}}, ".<br>",
+    "Who is correct?"
+  ],
+   "options": [{"text":"Emily"},{"text":"Daniel"}],
+  "answer": 0
+},
+{
+  "questionNo": 22,
+  "question": [
+    "Isabella says:<br>Subtracting ", {"fraction": {"numerator": -2, "denominator": 7}}, " is equivalent to adding ", {"fraction": {"numerator": -2, "denominator": 7}}, ".<br>",
+    "Henry says:<br>Subtracting ", {"fraction": {"numerator": -2, "denominator": 7}}, " is equivalent to adding ", {"fraction": {"numerator": 2, "denominator": 7}}, ".<br>",
+    "Who is correct?"
+  ],
+  "options": [{"text":"Isabella"},{"text":"Henry "}],
+  "answer": 1
+},
+{
+  "questionNo": 23,
+  "question": [
+    "Chloe says:<br>Subtracting ", {"fraction": {"numerator": 9, "denominator": 14}}, " is equivalent to adding ", {"fraction": {"numerator": -9, "denominator": 14}}, ".<br>",
+    "Jack says:<br>Subtracting ", {"fraction": {"numerator": 9, "denominator": 14}}, " is equivalent to adding ", {"fraction": {"numerator": 9, "denominator": 14}}, ".<br>",
+    "Who is correct?"
+  ],
+   "options": [{"text":"Chloe"},{"text":"Jack"}],
+  "answer": 0
+},
+{
+  "questionNo": 24,
+  "question": ["What should be added to ", {"fraction": {"numerator": -3, "denominator": 5}}, " to get ", {"fraction": {"numerator": 11, "denominator": 10}}, "?"],
+  "options": [
+    {"fraction": {"numerator": "-17", "denominator": "10"}},
+    {"fraction": {"numerator": "5", "denominator": "10"}},
+    {"fraction": {"numerator": "17", "denominator": "10"}},
+    {"fraction": {"numerator": "-1", "denominator": "2"}}
+  ],
+  "answer": 2
+},
+{
+  "questionNo": 25,
+  "question": ["What should be added to ", {"fraction": {"numerator": -7, "denominator": 8}}, " to get ", {"fraction": {"numerator": -1, "denominator": 4}}, "?"],
+  "options": [
+    {"fraction": {"numerator": "-5", "denominator": "8"}},
+    {"fraction": {"numerator": "5", "denominator": "8"}},
+    {"fraction": {"numerator": "9", "denominator": "8"}},
+    {"fraction": {"numerator": "-9", "denominator": "8"}}
+  ],
+  "answer": 1
+},
+{
+  "questionNo": 26,
+  "question": ["What should be subtracted from ", {"fraction": {"numerator": -9, "denominator": 4}}, " to get ", {"fraction": {"numerator": 5, "denominator": 6}}, "?"],
+  "options": [
+    {"fraction": {"numerator": "17", "denominator": "12"}},
+    {"fraction": {"numerator": "37", "denominator": "12"}},
+    {"fraction": {"numerator": "-17", "denominator": "12"}},
+    {"fraction": {"numerator": "-37", "denominator": "12"}}
+  ],
+  "answer": 3
+},
+{
+  "questionNo": 27,
+  "question": ["What should be subtracted from ", {"fraction": {"numerator": -3, "denominator": 2}}, " to get ", {"fraction": {"numerator": -7, "denominator": 3}}, "?"],
+  "options": [
+    {"fraction": {"numerator": "-1", "denominator": "6"}},
+    {"fraction": {"numerator": "-5", "denominator": "6"}},
+    {"fraction": {"numerator": "5", "denominator": "6"}},
+    {"fraction": {"numerator": "1", "denominator": "6"}}
+  ],
+  "answer": 2
+}
+
+
+]
+
+    }
+  ]
+}

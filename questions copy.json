@@ -1,0 +1,269 @@
+{
+  "heading": "G6_Understanding Fractions And Its Types",
+  "topics": [
+    {
+      "heading": "Understanding Fractions And Its Types",
+      "questions": [
+{
+"questionNo":1,
+"question":["The following shape is divided into:"],
+"options":[
+{"text":"Halves"},
+{"text":"Thirds"},
+{"text":"Quarters"},
+{"text":"Fifths"}
+],
+"image":"./assests/images/question/1.png",
+"answer":2
+},
+
+{
+"questionNo":2,
+"question":["The following shape is divided into:"],
+"options":[
+{"text":"Halves"},
+{"text":"Thirds"},
+{"text":"Fourths"},
+{"text":"Fifths"}
+],
+"image":"./assests/images/question/2.png",
+"answer":2
+},
+
+{
+"questionNo":3,
+"question":["Which picture shows", {"fraction":{"numerator":3,"denominator":5}}, " of watermelon?"],
+"options":[
+{"image":"./assests/images/option/3.png"},
+{"image":"./assests/images/option/4.png"},
+{"image":"./assests/images/option/5.png"},
+{"image":"./assests/images/option/1.png"}
+],
+"answer":3
+},
+
+{
+"questionNo":4,
+"question":["What fraction of apples is not red?"],
+"options":[
+{"fraction":{"whole":"","numerator":"6","denominator":"10"}},
+{"fraction":{"whole":"","numerator":"4","denominator":"10"}},
+{"fraction":{"whole":"","numerator":"3","denominator":"5"}},
+{"fraction":{"whole":"","numerator":"4","denominator":"6"}}
+],
+"image":"./assests/images/question/6.png",
+"answer":0
+},
+
+{
+"questionNo":5,
+"question":["What fraction of stars is not colored blue?"],
+"options":[
+{"fraction":{"whole":"","numerator":"11","denominator":"4"}},
+{"fraction":{"whole":"","numerator":"11","denominator":"7"}},
+{"fraction":{"whole":"","numerator":"4","denominator":"11"}},
+{"fraction":{"whole":"","numerator":"7","denominator":"11"}}
+],
+"image":"./assests/images/question/7.png",
+"answer":3
+},
+
+{
+"questionNo":6,
+"question":["What fraction of the shape is shaded blue?"],
+"options":[
+{"fraction":{"whole":"","numerator":"1","denominator":"4"}},
+{"fraction":{"whole":"","numerator":"3","denominator":"6"}},
+{"fraction":{"whole":"","numerator":"1","denominator":"3"}},
+{"fraction":{"whole":"","numerator":"3","denominator":"4"}}
+],
+"image":"./assests/images/question/8.png",
+"answer":1
+},
+
+{
+"questionNo":7,
+"question":["What fraction is blue?"],
+"options":[
+{"fraction":{"whole":"","numerator":"1","denominator":"4"}},
+{"fraction":{"whole":"","numerator":"3","denominator":"5"}},
+{"fraction":{"whole":"","numerator":"3","denominator":"8"}},
+{"fraction":{"whole":"","numerator":"2","denominator":"3"}}
+],
+"image":"./assests/images/question/9.png",
+"answer":2
+},
+
+{
+"questionNo":8,
+"question":[{"fraction":{"numerator":7,"denominator":10}}, " is read as:"],
+"options":[
+{"text":"Seven-tenths"},
+{"text":"Ten-sevenths"},
+{"text":"Seven-fifths"},
+{"text":"Seven-fourths"}
+],
+"answer":0
+},
+
+{
+"questionNo":9,
+"question":[{"fraction":{"numerator":9,"denominator":4}}," in words is:"],
+"options":[
+{"text":"Nine-halves"},
+{"text":"Nine-fourths"},
+{"text":"Four-ninths"},
+{"text":"Nine-thirds"}
+],
+"answer":1
+},
+
+{
+"questionNo":10,
+"question":["1Which of the following shows unit fraction?"],
+"options":[
+{"image":"./assests/images/option/10.png"},
+{"image":"./assests/images/option/11.png"},
+{"image":"./assests/images/option/12.png"},
+{"image":"./assests/images/option/13.png"}
+],
+"answer":3
+},
+
+{
+"questionNo":11,
+"question":["1The following picture shows:"],
+"options":[
+{"text":"Proper fraction"},
+{"text":"Mixed number"}
+],
+"image":"./assests/images/question/13.png",
+"answer":0
+},
+
+{
+"questionNo":12,
+"question":["The following picture shows:"],
+"options":[
+{"text":"Proper fraction"},
+{"text":"Mixed fraction"}
+],
+"image":"./assests/images/question/14.png",
+"answer":1
+},
+
+{
+"questionNo":13,
+"question":["The following picture shows:"],
+"options":[
+{"text":"Proper fraction"},
+{"text":"Improper fraction"}
+],
+"image":"./assests/images/question/15.png",
+"answer":1
+},
+
+{
+"questionNo":14,
+"question":["The following picture shows:"],
+"options":[
+{"text":"Proper fraction"},
+{"text":"Improper fraction"}
+],
+"image":"./assests/images/question/16.png",
+"answer":1
+},
+
+{
+"questionNo":15,
+"question":["Write the given fraction as mentioned. <br>  <img width = '35%' src = './assests/images/question/17.png'> <br> Mixed fraction  ",{"fraction":{"whole": "______","numerator":"______","denominator":"______"}} , "<br>Improper fraction ",{"fraction":{"whole": "","numerator":"______","denominator":"______"}}],
+"input":["","","","",""],
+"answer":["1","1","3","4","3"]
+
+},
+
+{
+"questionNo":16,
+"question":["Write the given fraction as mentioned. <br>  <img width = '35%' src = './assests/images/question/19.png'> <br> Mixed fraction  ",{"fraction":{"whole": "______","numerator":"______","denominator":"______"}} , "<br>Improper fraction ",{"fraction":{"whole": "","numerator":"______","denominator":"______"}}],
+"input":["","","","",""],
+"answer":["2","4","7","18","7"]
+},
+
+{
+"questionNo":17,
+"question":["Write the given fraction. <br> <img width = '35%' src = './assests/images/question/21.png'> <br>",{"fraction":{"whole": "","numerator":"______","denominator":"______"}} ],
+"input":["", ""],
+"answer":["8","7"]
+},
+
+{
+"questionNo":18,
+"question":["Write the given fraction. <br> <img width = '35%' src = './assests/images/question/23.png'> <br>",{"fraction":{"whole": "","numerator":"______","denominator":"______"}} ],
+"input":[""],
+"answer":["9","6"]
+
+},
+
+{
+"questionNo":19,
+"question":["Write the improper fraction shown below"],
+"options":[
+{"fraction":{"whole":"","numerator":"10","denominator":"6"}},
+{"fraction":{"whole":"","numerator":"10","denominator":"7"}},
+{"fraction":{"whole":"","numerator":"3","denominator":"7"}},
+{"fraction":{"whole":"","numerator":"8","denominator":"5"}}
+],
+"image":"./assests/images/question/25.png",
+"answer":1
+},
+
+{
+"questionNo":20,
+"question":["Which of the following shows the given improper fraction as mixed fraction?"],
+"options":[
+{"image":"./assests/images/option/31.png"},
+{"image":"./assests/images/option/30.png"}
+],
+"image":"./assests/images/question/29.png",
+"answer":0
+},
+
+{
+"questionNo":21,
+"question":["Which of the following shows the given improper fraction as mixed fraction?"],
+"options":[
+{"image":"./assests/images/option/33.png"},
+{"image":"./assests/images/option/34.png"}
+],
+"image":"./assests/images/question/32.png",
+"answer":0
+},
+
+{
+"questionNo":22,
+"question":["Which of the following shows the given improper fraction as mixed fraction?"],
+"options":[
+{"image":"./assests/images/option/27.png"},
+{"image":"./assests/images/option/28.png"}
+],
+"image":"./assests/images/question/26.png",
+"answer":1
+},
+{
+"questionNo":23,
+"question":["______ fifths = 1 whole <br>So, 2 wholes = ______ fifths"],
+"input":["",""],
+"answer":["5","10"]
+},
+
+{
+"questionNo":24,
+"question":["______ eighths = 1 whole <br>So, 4 wholes = ______ eighths"],
+"input":["",""],
+"answer":["8","32"]
+}
+]
+
+    }
+  ]
+}
