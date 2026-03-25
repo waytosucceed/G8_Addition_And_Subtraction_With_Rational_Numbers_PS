@@ -209,47 +209,6 @@
   "answer": 0
 },
 {
-  "questionNo": 17,
-  "question": ["The number line below shows an unknown number, x.<br>Is -x positive or negative?"],
-  "options": [{"text":"positive"},{"text":"negative"}],
-  "image":"./assests/images/question/12.png",
-  "answer": 1
-},
-{
-  "questionNo": 18,
-  "question": ["The number line shows two unknown numbers, a and b.<br>Is a − b positive or negative?"],
-   "options": [{"text":"positive"},{"text":"negative"}],
-  "image":"./assests/images/question/13.png",
-  "answer": 1
-},
-{
-  "questionNo": 19,
-  "question": ["The number line shows two unknown numbers, p and q.<br>Is p - q positive or negative?"],
-   "options": [{"text":"positive"},{"text":"negative"}],
-  "image":"./assests/images/question/14.png",
-  "answer": 0
-},
-{
-  "questionNo": 20,
-  "question": [
-    "Arjun says:<br>Adding ", {"fraction": {"numerator": -7, "denominator": 9}}, " is equivalent to subtracting ", {"fraction": {"numerator": 7, "denominator": 9}}, ".<br>",
-    "Sophia says:<br>Adding ", {"fraction": {"numerator": -7, "denominator": 9}}, " is equivalent to subtracting ", {"fraction": {"numerator": -7, "denominator": 9}}, ".<br>",
-    "Who is correct?"
-  ],
-    "options": [{"text":"Arjun"},{"text":"Sophia"}],
-  "answer": 0
-},
-{
-  "questionNo": 21,
-  "question": [
-    "Emily says:<br>Adding ", {"fraction": {"numerator": 5, "denominator": 12}}, " is equivalent to subtracting ", {"fraction": {"numerator": -5, "denominator": 12}}, ".<br>",
-    "Daniel says:<br>Adding ", {"fraction": {"numerator": 5, "denominator": 12}}, " is equivalent to subtracting ", {"fraction": {"numerator": 5, "denominator": 12}}, ".<br>",
-    "Who is correct?"
-  ],
-   "options": [{"text":"Emily"},{"text":"Daniel"}],
-  "answer": 0
-},
-{
   "questionNo": 22,
   "question": [
     "Isabella says:<br>Subtracting ", {"fraction": {"numerator": -2, "denominator": 7}}, " is equivalent to adding ", {"fraction": {"numerator": -2, "denominator": 7}}, ".<br>",
